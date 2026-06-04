@@ -53,7 +53,7 @@ const Page: FC = () => {
       <div className="flex justify-end gap-x-1">
         <button
           onClick={() => {
-            window.open("https://github.com/psycho-baller/journal-genius", "_blank");
+            window.open("https://github.com/rami-maalouf/journal-genius", "_blank");
           }}
           className=""
         >
